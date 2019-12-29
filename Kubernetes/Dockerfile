@@ -1,6 +1,6 @@
 FROM tomcat:latest
 
-MAINTAINER David
+MAINTAINER David Mali
 
 COPY ./webapp.war /usr/local/tomcat/webapps
 
