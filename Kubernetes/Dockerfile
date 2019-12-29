@@ -1,6 +1,6 @@
 FROM tomcat:latest
 
-MAINTAINER Sylla
+MAINTAINER Abraham
 
 COPY ./webapp.war /usr/local/tomcat/webapps
 
